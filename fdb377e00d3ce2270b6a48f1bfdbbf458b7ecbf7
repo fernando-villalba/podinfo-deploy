@@ -1,0 +1,1 @@
+{"jobID":"05302fe0-3b63-bf46-56c9-2a46e7ccf0ab","spec":{"type":"policy","cause":{"Message":"","User":"Fernando Villalba \u003cfernando.villalba@monese.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":null,"remove":{"automated":"true"}}}},"result":null}
